@@ -1,4 +1,4 @@
-# PCA
+# PCA.R
 R script performing a PCA on the correlation matrix of stock market returns. 
 The starting portfolio is composed of 22 English equities, whose geometric returns were calculated in the specified time frame. 
 Once the "principal portfolios" were defined, we evaluated their absolute and relative performance against an equally weighted benchmark portfolio.
